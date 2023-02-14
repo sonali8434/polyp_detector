@@ -1,6 +1,5 @@
 # polyp_detector
-
-A new Flutter project.
+This project is a polyp detector app which takes the picture and detect the polyp in that picture
 
 ## Getting Started
 
